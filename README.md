@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/tdck23c82nyu8cf6?svg=true)](https://ci.appveyor.com/project/molottva/cardorder)
+[![Build status](https://ci.appveyor.com/api/projects/status/kw51i9ufceitu0w6/branch/main?svg=true)](https://ci.appveyor.com/project/AshurMezan/cardautotest/branch/main)
